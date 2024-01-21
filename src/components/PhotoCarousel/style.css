@@ -1,0 +1,57 @@
+.photo-carousel {
+  height: 250px;
+  overflow: hidden;
+  width: 1192px;
+}
+
+.photo-carousel .photos {
+  align-items: center;
+  display: inline-flex;
+  gap: 25px;
+  position: relative;
+}
+
+.photo-carousel .class {
+  width: unset !important;
+}
+
+.photo-carousel .class-2 {
+  height: 180px !important;
+  width: 250px !important;
+}
+
+.photo-carousel .class-3 {
+  flex: 0 0 auto !important;
+}
+
+.photo-carousel .variant-8 {
+  left: -1876px;
+}
+
+.photo-carousel .variant-4 {
+  left: -777px;
+}
+
+.photo-carousel .variant-2 {
+  left: -229px;
+}
+
+.photo-carousel .variant-3 {
+  left: -505px;
+}
+
+.photo-carousel .variant-5 {
+  left: -1052px;
+}
+
+.photo-carousel .variant-6 {
+  left: -1329px;
+}
+
+.photo-carousel .variant-7 {
+  left: -1602px;
+}
+
+.photo-carousel .default {
+  left: 43px;
+}

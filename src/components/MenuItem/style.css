@@ -1,0 +1,40 @@
+.menu-item {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+  position: relative;
+}
+
+.menu-item .text-wrapper {
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu-item.highlighted {
+  background-color: #f68b1e;
+}
+
+.menu-item.regular .text-wrapper {
+  color: #ffffff;
+}
+
+.menu-item.highlighted .text-wrapper {
+  color: #000000;
+}
+
+.menu-item:hover {
+  background-color: #f68b1e99;
+}
+
+.menu-item:hover .text-wrapper {
+  color: #f68b1e;
+}

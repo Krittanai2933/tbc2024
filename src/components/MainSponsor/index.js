@@ -1,0 +1,1 @@
+export { MainSponsor } from "./MainSponsor";

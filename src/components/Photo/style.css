@@ -1,0 +1,65 @@
+.photo {
+  background-color: #ffffff;
+  height: 250px;
+  position: relative;
+  width: 350px;
+}
+
+.photo .btc {
+  height: 250px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.photo.eight {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.nine {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.eleven {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.two {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.six {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.seven {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.four {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.five {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.one {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.photo.ten {
+  border-radius: 10px;
+  overflow: hidden;
+}

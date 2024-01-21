@@ -1,0 +1,14 @@
+.logo-placeholder {
+  height: 65px;
+  position: relative;
+  width: 213px;
+}
+
+.logo-placeholder .BTC {
+  height: 65px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}

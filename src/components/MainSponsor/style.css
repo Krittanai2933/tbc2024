@@ -1,0 +1,18 @@
+.main-sponsor {
+  background-color: #ffffff80;
+  border-radius: 10px;
+  box-shadow: 6px 6px 4px #00000040;
+  height: 188px;
+  overflow: hidden;
+  position: relative;
+  width: 283px;
+}
+
+.main-sponsor .chitbeer {
+  height: 154px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 154px;
+}

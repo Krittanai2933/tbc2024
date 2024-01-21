@@ -1,0 +1,45 @@
+.header {
+  align-items: center;
+  background-color: #ffffff66;
+  display: flex;
+  gap: 10px;
+  height: 82px;
+  justify-content: center;
+  position: relative;
+  width: 1440px;
+}
+
+.header .header-navigation {
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255,0.07);
+  align-items: center;
+  width: 1827px;
+  display: flex;
+  position: relative;
+  align-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.header .menu-bar {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 373px;
+  position: relative;
+}
+
+.header .menu-items {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 12px;
+  position: relative;
+}
+
+.header .menu-item-instance {
+  flex: 0 0 auto !important;
+}
+
+.header .design-component-instance-node {
+  font-weight: 600 !important;
+}
