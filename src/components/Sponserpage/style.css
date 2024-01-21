@@ -1,0 +1,655 @@
+.sponsor {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 4800px;
+    width: 100%;
+}
+
+.sponsor .div {
+    background-image: url(../../../static/img/bg_b1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 6962px;
+    position: relative;
+    width: 1600px;
+}
+
+.sponsor .frame {
+    background-image: url(../../../static/img/frame2.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 20px;
+    height: 480px;
+    left: 91px;
+    overflow: hidden;
+    position: absolute;
+    top: 143px;
+    width: 1200px;
+}
+
+.sponsor .frame-wrapper {
+    align-items: flex-start;
+    background-color: #fe7f09;
+    border-radius: 20px;
+    box-shadow: 0px 6px 4px #00000040;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 46px;
+    padding: 42px 55px;
+    position: relative;
+    top: 8px;
+}
+
+.sponsor .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 30px;
+    position: relative;
+}
+
+.sponsor .BECOME-a-SPONSOR {
+    color: transparent;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 70px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 70px;
+    margin-top: -1px;
+    position: relative;
+    width: 394px;
+}
+
+.sponsor .span {
+    color: #000000;
+}
+
+.sponsor .ticket-button-instance {
+    color: #ffffff;
+}
+
+.sponsor .where-business-meets {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+}
+
+.sponsor .ticket-button-2 {
+    background-color: #000000 !important;
+}
+
+.sponsor .line {
+    height: 74px;
+    left: 91px;
+    object-fit: cover;
+    position: absolute;
+    top: 660px;
+    width: 1196px;
+}
+
+.sponsor .group {
+    height: 132px;
+    left: 91px;
+    position: absolute;
+    top: 3790px;
+    width: 236px;
+}
+
+.sponsor .overlap-group {
+    height: 132px;
+    position: relative;
+    width: 232px;
+}
+
+.sponsor .text-wrapper-2 {
+    color: #b7b4b3;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    white-space: nowrap;
+}
+
+.sponsor .p {
+    color: transparent;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 85px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.sponsor .text-wrapper-3 {
+    color: #ffffff;
+    font-weight: 900;
+}
+
+.sponsor .text-wrapper-4 {
+    color: #4f4f4f;
+    font-weight: 900;
+}
+
+.sponsor .text-wrapper-5 {
+    color: #4f4f4f;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.sponsor .text-wrapper-6 {
+    color: #4f4f4f;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.sponsor .overlap-wrapper {
+    height: 132px;
+    left: 421px;
+    position: absolute;
+    top: 3920px;
+    width: 259px;
+}
+
+.sponsor .overlap {
+    height: 132px;
+    position: relative;
+    width: 255px;
+}
+
+.sponsor .element-k {
+    color: transparent;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 85px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.sponsor .overlap-group-wrapper {
+    height: 132px;
+    left: 91px;
+    position: absolute;
+    top: 3920px;
+    width: 226px;
+}
+
+.sponsor .overlap-2 {
+    height: 132px;
+    position: relative;
+    width: 222px;
+}
+
+.sponsor .div-wrapper {
+    height: 132px;
+    left: 421px;
+    position: absolute;
+    top: 3790px;
+    width: 293px;
+}
+
+.sponsor .overlap-3 {
+    height: 132px;
+    position: relative;
+    width: 289px;
+}
+
+.sponsor .text-wrapper-7 {
+    color: #b7b4b3;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    white-space: nowrap;
+}
+
+.sponsor .img {
+    height: 82px;
+    left: 98px;
+    position: absolute;
+    top: 3725px;
+    width: 225px;
+}
+
+.sponsor .line-2 {
+    height: 1px;
+    left: 345px;
+    position: absolute;
+    top: 4194px;
+    width: 333px;
+}
+
+.sponsor .group-2 {
+    height: 117px;
+    left: 798px;
+    position: absolute;
+    top: 3685px;
+    width: 477px;
+}
+
+.sponsor .overlap-4 {
+    height: 115px;
+    left: 144px;
+    position: absolute;
+    top: 2px;
+    width: 327px;
+}
+
+.sponsor .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 35px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: -0.53px;
+    line-height: 49px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.sponsor .strong-and-engaged {
+    color: #d9d9d9;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 27px;
+    font-weight: 400;
+    left: 89px;
+    letter-spacing: -0.41px;
+    line-height: 37.8px;
+    position: absolute;
+    top: 40px;
+    width: 238px;
+}
+
+.sponsor .text-wrapper-9 {
+    color: #d9d9d9;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 27px;
+    font-weight: 400;
+    letter-spacing: -0.41px;
+    line-height: 37.8px;
+}
+
+.sponsor .text-wrapper-10 {
+    font-size: 24px;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+}
+
+.sponsor .element-k-2 {
+    color: transparent;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -1.05px;
+    line-height: 98px;
+    position: absolute;
+    top: 29px;
+    white-space: nowrap;
+    width: 96px;
+}
+
+.sponsor .text-wrapper-11 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.sponsor .text-wrapper-12 {
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 18.2px;
+}
+
+.sponsor .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 50px;
+    letter-spacing: -0.75px;
+    line-height: 70px;
+}
+
+.sponsor .text-wrapper-14 {
+    color: #8449d5;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+}
+
+.sponsor .group-3 {
+    height: 101px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 115px;
+}
+
+.sponsor .group-4 {
+    height: 117px;
+    left: 798px;
+    position: absolute;
+    top: 3846px;
+    width: 484px;
+}
+
+.sponsor .group-5 {
+    height: 101px;
+    left: 0;
+    position: absolute;
+    top: 6px;
+    width: 115px;
+}
+
+.sponsor .overlap-5 {
+    height: 117px;
+    left: 144px;
+    position: absolute;
+    top: 0;
+    width: 334px;
+}
+
+.sponsor .members-in-our {
+    color: transparent;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 27px;
+    font-weight: 400;
+    left: 127px;
+    letter-spacing: -0.41px;
+    line-height: 37.8px;
+    position: absolute;
+    top: 44px;
+    width: 207px;
+}
+
+.sponsor .text-wrapper-15 {
+    color: #d9d9d9;
+}
+
+.sponsor .text-wrapper-16 {
+    color: #ff6600;
+}
+
+.sponsor .text-wrapper-17 {
+    color: #d9d9d9;
+    font-size: 24px;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+}
+
+.sponsor .element-k-3 {
+    color: transparent;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -1.05px;
+    line-height: 98px;
+    position: absolute;
+    top: 31px;
+    white-space: nowrap;
+    width: 114px;
+}
+
+.sponsor .text-wrapper-18 {
+    color: #8449d5;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+}
+
+.sponsor .group-6 {
+    height: 115px;
+    left: 798px;
+    position: absolute;
+    top: 4007px;
+    width: 482px;
+}
+
+.sponsor .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 35px;
+    font-weight: 600;
+    left: 144px;
+    letter-spacing: -0.53px;
+    line-height: 49px;
+    position: absolute;
+    text-align: center;
+    top: 1px;
+    white-space: nowrap;
+}
+
+.sponsor .a-itcoin-only {
+    color: transparent;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 144px;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+    position: absolute;
+    top: 50px;
+    width: 334px;
+}
+
+.sponsor .text-wrapper-20 {
+    color: #d9d9d9;
+    font-size: 22px;
+    letter-spacing: -0.33px;
+    line-height: 30.8px;
+}
+
+.sponsor .text-wrapper-21 {
+    color: #d9d9d9cc;
+    font-size: 22px;
+    letter-spacing: -0.33px;
+    line-height: 30.8px;
+}
+
+.sponsor .intersect {
+    height: 115px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 115px;
+}
+
+.sponsor .group-7 {
+    height: 121px;
+    left: 798px;
+    position: absolute;
+    top: 3520px;
+    width: 484px;
+}
+
+.sponsor .overlap-6 {
+    height: 121px;
+    left: 142px;
+    position: absolute;
+    top: 0;
+    width: 336px;
+}
+
+.sponsor .text-wrapper-22 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: -0.6px;
+    line-height: 56px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.sponsor .joined-the-nostr {
+    color: #d9d9d9;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 96px;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+    position: absolute;
+    top: 48px;
+    width: 240px;
+}
+
+.sponsor .element-k-4 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -1.05px;
+    line-height: 98px;
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+    width: 81px;
+}
+
+.sponsor .text-wrapper-23 {
+    font-weight: 700;
+}
+
+.sponsor .text-wrapper-24 {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 18.2px;
+}
+
+.sponsor .text-wrapper-25 {
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 50px;
+    letter-spacing: -0.75px;
+    line-height: 70px;
+}
+
+.sponsor .text-wrapper-26 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -0.36px;
+    line-height: 33.6px;
+}
+
+.sponsor .nostr {
+    height: 115px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 115px;
+}
+
+.sponsor .image {
+    height: 658px;
+    left: 98px;
+    object-fit: cover;
+    position: absolute;
+    top: 5356px;
+    width: 1179px;
+}
+
+.sponsor .image-2 {
+    height: 658px;
+    left: 98px;
+    object-fit: cover;
+    position: absolute;
+    top: 6102px;
+    width: 1178px;
+}
+
+.sponsor .image-3 {
+    height: 668px;
+    left: 91px;
+    object-fit: cover;
+    position: absolute;
+    top: 4124px;
+    width: 1193px;
+}
+
+.sponsor .image-4 {
+    height: 662px;
+    left: 91px;
+    object-fit: cover;
+    position: absolute;
+    top: 750px;
+    width: 1200px;
+}
+
+.sponsor .image-5 {
+    height: 669px;
+    left: 91px;
+    object-fit: cover;
+    position: absolute;
+    top: 1440px;
+    width: 1200px;
+}
+
+.sponsor .image-6 {
+    height: 667px;
+    left: 91px;
+    object-fit: cover;
+    position: absolute;
+    top: 2130px;
+    width: 1200px;
+}
+
+.sponsor .image-7 {
+    height: 669px;
+    left: 91px;
+    object-fit: cover;
+    position: absolute;
+    top: 2818px;
+    width: 1200px;
+}
+
+.sponsor .header-instance {
+    background-color: #000000cc !important;
+    left: 0 !important;
+    position: fixed !important;
+    top: 0 !important;
+    width: 1382px !important;
+}
+
+.sponsor .header-2 {
+    overflow: hidden !important;
+}
+
+.sponsor .header-3 {
+    height: 107px !important;
+    top: -21px !important;
+}

@@ -1,0 +1,32 @@
+.ticket-button {
+  background-color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  overflow: hidden;
+  position: relative;
+  width: 370px;
+}
+
+.ticket-button .get-your-ticket-now {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.ticket-button:hover {
+  height: 75px;
+  width: 390px;
+}
+
+.ticket-button:hover .get-your-ticket-now {
+  font-size: 27px;
+  left: 69px;
+  top: 20px;
+}

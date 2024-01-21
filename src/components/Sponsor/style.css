@@ -1,0 +1,18 @@
+.sponsor {
+  background-color: #ffffff80;
+  border-radius: 10px;
+  box-shadow: 6px 6px 4px #00000040;
+  height: 130px;
+  overflow: hidden;
+  position: relative;
+  width: 200px;
+}
+
+.sponsor .techsauce-logo {
+  height: 119px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 119px;
+}
