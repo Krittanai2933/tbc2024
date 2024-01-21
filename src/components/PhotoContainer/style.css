@@ -1,0 +1,17 @@
+.photo-container {
+  border-radius: 10px;
+  position: relative;
+}
+
+.photo-container.big {
+  height: 250px;
+  width: 350px;
+}
+
+.photo-container.small {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+}
